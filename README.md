@@ -6,7 +6,7 @@ Repositorio oficial para los trabajos de Laboratorio IV. Aquí magia, bugs y caf
 
 - **`main`**: Rama sagrada ✨  
   Aquí vive la versión final y pulida de cada TP.  
-  *Prohibido el paso directo de mortales (commitear aquí es pecado capital)*  
+  *Prohibido subir cambios directos a esta rama (commitear aquí es pecado capital)*  
 
 - **`master`**: Taller de desarrollo 🔧  
   Rama donde se juntan los avances revisados y (teóricamente) libres de bugs.  
