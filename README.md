@@ -2,7 +2,7 @@
 
 Repositorio oficial para los trabajos de Laboratorio IV. Aquí magia, bugs y café se mezclan en partes iguales ☕💻
 
-## 🌿 Estructura de Ramas ("El flujo de")
+## 🌿 Estructura de Ramas 
 
 - **`main`**: Rama sagrada ✨  
   Aquí vive la versión final y pulida de cada TP.  
